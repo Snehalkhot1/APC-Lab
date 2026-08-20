@@ -1,0 +1,1 @@
+print("MyPackage is initialized")
