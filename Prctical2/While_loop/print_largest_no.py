@@ -10,5 +10,4 @@ while i <= n:
         largest = num
     
     i += 1
-
 print("Largest number =", largest)
